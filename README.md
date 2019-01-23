@@ -1,5 +1,5 @@
 # predrating
-a eclipse project for predicting ratings of English reviews.
+An eclipse project for predicting ratings of English reviews.
 
 Demo: http://www.biswufe.cn/predratings/index.jsp
 
