@@ -1,10 +1,7 @@
 # predrating
 An project for predicting ratings of English reviews.
 
-In this project, we build a CRF model, called sentiCRF, which contain latent variables.
-We use adaboost based resampling method to deal with imbalance problem in YELP dataset.
-
-steps for building a  predictive model.
+The steps for building a predictive model are listed as follows.
 
 1. running dataset/datasetGenerateor.java
 update table "termpairs"  and build dictionary from table "reviews" in database.
