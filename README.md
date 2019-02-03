@@ -1,5 +1,5 @@
 # predrating
-An project for predicting ratings of English reviews.
+A project for predicting ratings of English reviews.
 
 The steps for building a predictive model are listed as follows.
 
